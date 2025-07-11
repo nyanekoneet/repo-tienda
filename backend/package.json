@@ -1,0 +1,28 @@
+{
+  "name": "repo-tienda",
+  "version": "1.0.0",
+  "description": "xfavor martin hay q acabarlo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^5.1.0",
+    "tailwindcss": "^4.1.11",
+    "dotenv": "^17.2.0",
+    "pug": "^3.0.3",
+    "pg": "^8.16.3",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyanekoneet/repo-tienda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyanekoneet/repo-tienda/issues"
+  },
+  "homepage": "https://github.com/nyanekoneet/repo-tienda#readme"
+}
